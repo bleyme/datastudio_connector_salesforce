@@ -1,0 +1,13 @@
+{
+  "timeZone": "GMT",
+  "dependencies": {
+  },
+  "dataStudio": {
+    "name": "Salesforce Accounts",
+    "logoUrl": "https://c1.sfdcstatic.com/content/dam/web/en_is/www/images/logo/logo-company.png",
+    "company": "bleyme",
+    "addonUrl": "https://github.com/bleyme",
+    "supportUrl": "https://developers.google.com/datastudio/connector/faq",
+    "description": "This connector uses the Salesforce REST API to retrieve metadata"
+  }
+}
