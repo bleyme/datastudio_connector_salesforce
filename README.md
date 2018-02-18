@@ -1,12 +1,8 @@
 # Build Data Studio Connector for Salesforce
-<h1 align="center">
-   <img src="https://lh3.googleusercontent.com/ga9WGlvPq72uNzvRS5VZW3l0AptCr6VaWCev3VnJRmVCUt2yIV7VUdqAuj3gMjDkorKV7PqOhqsNxRAxiYtwaIGKZUs3QZNYMA39d7GTPZ3RQ91-yehTqY800UWXZVdQgdLzYJIPd2iKyOovrLkluFYxZ6ug0WxzYvDc8UHqOXpY7IkbRvg2WbyBUzGbMHGyTDuI7LDCpaJlEsT1ZleJtLUtlGq_pA1Xled3ZuvXFmVB0cEA15zft-lPhkWabjHfr-MDyDgkfw2ogSSzYfQOA1CrgF8AoDqtAhF63nIRzdiuX6GAKz9xxXbDlKlJvJ_SNL2qp7N9i1ChOTfSCJPbk8IGRs2Pv4NKLffSp0oLfASpLvNcUKOFfMKv-Xsx5GU6pPEymFBKVU79fZv6zh_kyf_0Mk8UtQMHHMOM6mca4S1fd-sa8hnjAhc1OvLZrUATpjQTGBERn1PxSP2QCs84fjbLirFG8fVQFvODz_D0h8UuPtBeLuYW1euLmlmnBGfbIffN4rRyyDUuOIKKW2vdQ_-BJrJeHagc3SG-75HEFsdM5TZvC9Z-MC0VTYlHw5T4m3KyrX_kphJgy9jFVfd8ObPXEWzmN9fPJiZsgF17=s200-no" />
-</h1>
-<p>
+
 Google Data Studio (beta) is a business intelligent tool designed by Google to help you turning your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable.
 
 Data Studio provides built-in connector but is also allowing you the ability to build your own connector.Goal of this repository is to show how to build a Data Studio connector for Salesforce in order to made Salesforce data available in your reports and dashboards.
-</p>
 
 # Table of contents
   * [Requirements](#requirements)
