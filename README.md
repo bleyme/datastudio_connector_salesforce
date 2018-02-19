@@ -46,11 +46,11 @@ A security token can be generated in your profil settings here: `https://YOUR_IN
 Replace **YOUR_INSTANCE** with your own custom domain in Salesforce.
 
 Reminder of requirements to request Salesforce REST API:
-| Requirement | Description |
+| Requirement | Description | 
 |--|--|
-| CLIENT_ID	 | Provided by the connected app: Consumer Key|
-| CLIENT_SECRET | Provided by the connected app: Consumer Secret |
-| USERNAME | Salesforce username (most of the time it's your email address) |
+| CLIENT_ID	| Provided by the connected app: Consumer Key| 
+| CLIENT_SECRET | Provided by the connected app: Consumer Secret | 
+| USERNAME | Salesforce username (most of the time it's your email address) | 
 | PASSWORD | Combination of your Salesforce password AND security token. Looks like this: YourpasswordSecuritytoken |
 
 # Build a DataStudio connector
