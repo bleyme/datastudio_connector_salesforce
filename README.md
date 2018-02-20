@@ -28,10 +28,10 @@ As for many REST web services, you need a **CLIENT_ID** and **CLIENT_SECRET** to
 With this access token, you can use it as a Bearer token in your HTTP headers.
 
 Therefore you can get data from Salesforce HTTP with theon eader forms:
-|Header form  | Value |
-|--|--|
-| Content-Type | application/json |
-| Authorization	 | Your access token |
+Header form  | Value 
+------------ | -------------
+Content-Type | application/json 
+Authorization	 | Your access token 
 
 From here you can requests one of the many endpoints provided by Salesforce. 
 ## Create a connected app
