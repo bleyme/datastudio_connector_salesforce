@@ -32,7 +32,7 @@ Therefore you can get data from Salesforce HTTP with theon eader forms:
 Header form  | Value 
 ------------ | -------------
 Content-Type | application/json 
-Authorization | Your access token 
+Authorization | Bearer ACCESS_TOKEN
 
 From here you can requests one of the many endpoints provided by Salesforce. 
 ## Create a connected app
